@@ -37,8 +37,8 @@ Before running the application first install the following dependencies.
   pip install matplotlib
   pip install pathlib
   pip install Numpy
-  pip install -U scikit-learn
   pip install hvplot
+  pip install prophet
   
 ```
 
